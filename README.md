@@ -1,1 +1,1 @@
-# -Internal-BUCC-Competitive-Programming-Contest-Series.-Segment-2
+# Internal-BUCC-Competitive-Programming-Contest-Series.-Segment-2
