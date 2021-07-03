@@ -4,7 +4,7 @@ using namespace std;
 typedef long long int ll;
 
 int main() {
-            //Cumulative Sum Query SPOJ - CSUMQ
+            //Cumulative Sum Query SPOJ - CSUMQ...
 			ios::sync_with_stdio(false);
 			cin.tie(NULL); cout.tie(NULL);
 
